@@ -1,10 +1,10 @@
 ---
-title: test
-subtitle: teste
+title: Hyosung GT250R
+subtitle: Motorcycle
 category:
   - About Awake
-author: Daniel Kelly
+author: Prasanth Sasikumar
 date: 2020-01-09T04:24:46.934Z
-featureImage: uploads/cat-1045782_1920.jpg
+featureImage: uploads/GT250R.jpg
 ---
-Test
+This is a test post
