@@ -6,7 +6,7 @@
       }`
     "
   >
-    <div class="message-header">
+    <!-- <div class="message-header">
       <font-awesome-icon
         :icon="active ? 'times' : 'envelope'"
         :aria-label="active ? 'close' : 'open'"
@@ -17,14 +17,12 @@
     </div>
     <div class="message-body">
       <news-letter-form />
-    </div>
+    </div> -->
   </article>
 </template>
 <script>
-import NewsLetterForm from '~/components/NewsLetterForm'
 export default {
   name: 'NewsLetterSlideOut',
-  components: { NewsLetterForm },
   data() {
     return {
       active: true

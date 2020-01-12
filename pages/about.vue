@@ -1,35 +1,36 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
-      subtitle="Example About Page"
+      title="PhD Candidate"
+      subtitle="University of Auckland"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Research Focus</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              Multimodal Input in Remote Collaboration with Dense Scene
+              Reconstruction.
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Have a keen interest in VR and AR applications and how they may
+            assist industry to better solve problems. Currently doing PhD
+            research under the supervision of Prof. Mark Billinghurst and Dr.
+            Huidong Bai in Empathic Computing Lab at the University of Auckland
           </p>
 
-          <h3>Another Fake Heading</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Previous research in the design, development and testing wearable
+            and non weareable haptic interfaces to improve immersion in Virtual
+            Reality. This was funded by MBIE as part of NZ/Korea Human-Digital
+            Content Interaction for Immersive 4D Home Entertainment project.
           </p>
+          <br /><br /><br />
           <quote-card />
-          <h3>Still More Fake Content</h3>
+          <h3>Side Projects</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
             eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
