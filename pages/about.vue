@@ -43,39 +43,54 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Cool Stuff We Do
+                PhD Research
               </p>
               <p class="subtitle">
-                Sooo Cool
+                Wearable Remote Fusion
               </p>
               <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
+                <opti-image
+                  width="500"
+                  height="500"
+                  :src="require('~/assets/uploads/wearable-rf.jpg').src"
+                  :srcset="require('~/assets/uploads/wearable-rf.jpg').srcSet"
+                />
               </figure>
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Other Cool Things
+                Magic Mirror
               </p>
               <p class="subtitle">
                 Just as cool
               </p>
               <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
+                <opti-image
+                  width="500"
+                  height="500"
+                  :src="require('~/assets/uploads/magic-mirror.jpg').src"
+                  :srcset="require('~/assets/uploads/magic-mirror.jpg').srcSet"
+                />
               </figure>
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                All the cool
+                SandBox
               </p>
               <p class="subtitle">
-                that is all
+                Augmented Reality SandBox
               </p>
               <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
+                <opti-image
+                  width="500"
+                  height="500"
+                  :src="require('~/assets/uploads/sandbox.jpg').src"
+                  :srcset="require('~/assets/uploads/sandbox.jpg').srcSet"
+                />
               </figure>
             </article>
           </div>
