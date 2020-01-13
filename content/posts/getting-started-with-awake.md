@@ -2,7 +2,7 @@
 title: Getting started with Netlify
 subtitle: How to get started with creating a website in under an hour
 category:
-  - About Awake
+  - Research
 author: Prasanth Sasikumar
 date: 2020-01-12T18:59:59.000Z
 featureImage: /uploads/getting-started-hero.jpg
