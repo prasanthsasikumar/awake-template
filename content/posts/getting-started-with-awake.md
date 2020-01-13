@@ -45,7 +45,3 @@ Posts and categories can be edited in Netlify CMS at \[your-site-url]/admin. At 
 # Local Development
 
 Since all content is store in the git repo with Netlify CMS, local development is a breeze. Simply install node, pull down the repo, install the dependencies with `npm install`, and run `npm run dev`.
-
-# Having Issues?
-
-If you're having any issues feel free to reach out to me on twitter [@danielkelly.io](https://twitter.com/danielkelly_io) or report an issue in [github repo](https://github.com/danielkellyio/awake-template).
