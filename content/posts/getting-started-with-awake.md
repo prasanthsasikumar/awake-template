@@ -1,10 +1,10 @@
 ---
-title: Getting Started
-subtitle: Get Up and Running with Awake
+title: Getting started with Netlify
+subtitle: How to get started with creating a website in under an hour
 category:
   - About Awake
-author: Daniel Kelly
-date: 2019-08-03T19:59:59.000Z
+author: Prasanth Sasikumar
+date: 2020-01-12T18:59:59.000Z
 featureImage: /uploads/getting-started-hero.jpg
 ---
 Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
