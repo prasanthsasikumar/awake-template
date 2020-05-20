@@ -5,7 +5,7 @@ category:
   - Life Hacks
 author: Prasanth Sasikumar
 date: 2020-01-09T04:24:46.934Z
-featureImage: uploads/GT250R.jpg
+featureImage: /uploads/GT250R.jpg
 ---
 The objective here is to own a motorcycle for free, or atleast a very cheap price.
 
@@ -31,7 +31,7 @@ What I don't have:
 
 Put that all in perspective, my options are:
 
-1)Travel far and wide if there is a good deal and transport the motorcycle back home. 
+1)Travel far and wide if there is a good deal and transport the motorcycle back home.
 
 2)Buy a damaged bike and fix it up over time, but then again, it wouldnt be free.
 
