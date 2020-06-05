@@ -31,7 +31,7 @@ The objective here is to own a motorcycle for free, or at-least at a very cheap 
 
 2)Buy a damaged bike and fix it up over time, but then again, it wouldn't be free.
 
-So here is what happened;
+**So here is what happened;**
 
 Bought a good motorcycle for cheap. How? From insurance auction as a stolen and recovered listing. It was cheap as it was de-registered. To put it in simple terms, getting it back on road would require lot of inspection and paper work. Hence the cheap price. Was too lazy to go and collect it, so I asked around and found a decent courier who can deliver it to me for a decent price.
 
