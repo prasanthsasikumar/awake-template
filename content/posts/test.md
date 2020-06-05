@@ -9,7 +9,7 @@ featureImage: /uploads/GT250R.jpg
 ---
 The objective here is to own a motorcycle for free, or at-least at a very cheap price.
 
-The skills I have:
+**The skills I have:**
 
 1)Know my way around motorcycle mechanics
 
@@ -19,13 +19,13 @@ The skills I have:
 
 4)Own a car capable of towing trailers
 
-What I don't have:
+**What I don't have:**
 
 1) Enough funds to buy a decent condition motorcycle
 
-2)Willingness to spend good money
+2) Willingness to spend good money
 
-Put that all in perspective, my options are:
+**Put that all in perspective, my options are:**
 
 1)Travel far and wide if there is a good deal and transport the motorcycle back home.
 
