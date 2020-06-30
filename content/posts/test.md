@@ -7,32 +7,32 @@ author: Prasanth Sasikumar
 date: 2020-01-09T04:24:46.934Z
 featureImage: /uploads/GT250R.jpg
 ---
-The objective here is to own a motorcycle for free, or at-least at a very cheap price.
+The objective here is to own a motorcycle for free, or at-least at a very cheap price. One lesson I've learned on my experience with the Yamaha R15 is that, motorcycle needs to be heavy in order to have a comfortable ride on the motorway. Unlike may other countries, New Zealand doesn't have great motorcycle options to choose from. Since the options are limited, I have to work with what I can find.
 
 **The skills I have:**
 
-1)Know my way around motorcycle mechanics
-
-2)Have a fairly good understanding of the market prices
-
-3)Have access to insurance auctions
-
-4)Own a car capable of towing trailers
+* Know my way around motorcycle mechanics
+* Have a fairly good understanding of the market prices
+* Have access to insurance auctions
+* Own a car capable of towing trailers
 
 **What I don't have:**
 
-1) Enough funds to buy a decent condition motorcycle
+* Enough funds to buy a decent condition motorcycle
+* Willingness to spend good money
 
-2) Willingness to spend good money
+**Put those in perspective, my options are:**
 
-**Put that all in perspective, my options are:**
-
-1)Travel far and wide if there is a good deal and transport the motorcycle back home.
+1)If there is a good deal(which most likely happens in remote areas), I would be able to collect it.
 
 2)Buy a damaged bike and fix it up over time, but then again, it wouldn't be free.
 
-**So here is what happened;**
+**Here is what I did;** 
 
-Bought a good motorcycle for cheap. How? From insurance auction as a stolen and recovered listing. It was cheap as it was de-registered. To put it in simple terms, getting it back on road would require lot of inspection and paper work. Hence the cheap price. Was too lazy to go and collect it, so I asked around and found a decent courier who can deliver it to me for a decent price.
+I combined my options! Bought a good motorcycle for cheap. How? From insurance auction as a stolen and recovered listing. It was cheap as it was de-registered. To put it in simple terms, getting it back on road would require lot of inspection and paper work. Hence cheap. 
 
-Found a below average condition bike that is about 2 hours away and got it back in a trailer and purchased a live(registered) frame from a wrecker. Swapped the good parts of the good bike to the bad bike and got a warrant of fitness and then put then on the live frame and got that warranted. So now we have two bikes that are registered and warranted. Sold the bad bike at a very reasonable cost stating all the issues, which still covered the money spend on purchasing both the bikes making the good bike we have essentially free!
+Found a below average condition bike that is about 2 hours away and got it back in a trailer and purchased a live(registered) frame from a wrecker the same day on the way back. Next step, swap all the stuff from the de-registered bike to the live frame. Voila! we have a registered bike.
+
+Moving on, every motor vehicle has to clear a safety inspection once a year. Its called a Warrant of Fitness(WOF) in NZ. Both of mine doesn't have one.Swapped the good parts of the good bike into the bad bike and got it inspected. Once that's done, did the same for the other bike, and now I have two warranted bikes. 
+
+Sold the bad bike at a very reasonable price considering all the issues, which still covered the money spend on purchasing both the bikes making the good bike essentially free!!
