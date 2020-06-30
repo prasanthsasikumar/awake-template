@@ -7,7 +7,7 @@ author: Prasanth Sasikumar
 date: 2020-01-09T04:24:46.934Z
 featureImage: /uploads/GT250R.jpg
 ---
-The objective here is to own a motorcycle for free, or at-least at a very cheap price. One lesson I've learned on my experience with the Yamaha R15 is that, motorcycle needs to be heavy in order to have a comfortable ride on the motorway. Unlike may other countries, New Zealand doesn't have great motorcycle options to choose from. Since the options are limited, I have to work with what I can find.
+The objective here is to own a motorcycle for free, or at-least at a very cheap price. One lesson I've learned on my experience with the Yamaha R15 is that, motorcycle needs to be heavy and aerodynamic in order to have a comfortable ride on the motorway as it is too windy. Unlike may other countries, New Zealand doesn't have a great motorcycle range to choose from. Since the options are limited, I have to work with what I can find.
 
 **The skills I have:**
 
