@@ -1,8 +1,9 @@
 {
   "name": "nuxtlify",
   "version": "1.0.0",
-  "description": "Blog template for Nuxt.js/Netlify",
-  "author": "Daniel Kelly",
+  "description": "PSK Home page",
+  "homepage": "/",
+  "author": "Prasanth Sasikumar",
   "license": "MIT",
   "scripts": {
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
