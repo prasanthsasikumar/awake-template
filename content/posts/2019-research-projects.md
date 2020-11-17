@@ -9,4 +9,4 @@ featureImage: /uploads/student-project-bank-summary.jpg
 ---
 ![](/uploads/student-project-bank-summary.jpg)
 
-{% youtube oHg5SJYRHA0 %}
+![](/uploads/my_video.mov)
