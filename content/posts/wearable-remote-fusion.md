@@ -17,7 +17,10 @@ Any changes in the local environment can be updated to the remote user in real-t
 
 ![](/uploads/2019ismarsystem.png)
 
-We presented Wearable RemoteFusion, a remote collaboration system that supports spatial annotation and view frustum sharing along with natural non-verbal communication cues (eye gaze and hand gesture). We conducted a user study to investigate the benefits of providing natural communication cues during a collaboration task compared to the controller and annotation-based cues. With our system, the results showed that participants had a stronger feeling of Co-presence above average, and the remote user had less physical workload as well. We discuss implications for collaborative interface design and directions for future research on the paper. In the future, we want to extend the 3D reconstruction scale from the workspace to the room size. We also plan to enable object segmentation in the dense scene, which could result in a more intelligent guidance process.
+We presented Wearable RemoteFusion, a remote collaboration system that supports spatial annotation and view frustum sharing along with natural non-verbal communication cues (eye gaze and hand gesture). We conducted a user study to investigate the benefits of providing natural communication cues during a collaboration task compared to the controller and annotation-based cues. With our system, the results showed that participants had a stronger feeling of Co-presence above average, and the remote user had less physical workload as well. We discuss implications for collaborative interface design and directions for future research on the paper. The main takeaway from this research was:
+
+* Participants prefer naturak comminucation cues over device centric cues for remote collaboration involving pick and place tasks.
+* Gain insights on how to reconstruct surroundings using point cloud and synchronise local and remote worlds. 
 
 You can read more about the paper here: <https://doi.org/10.1109/ISMAR-Adjunct.2019.000-3>
 
