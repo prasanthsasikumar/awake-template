@@ -33,7 +33,7 @@ gulp.task("get:videos", function() {
 
 	(async () => {
 		let feed = await parser.parseURL(url);
-	
+
 		feed.items.forEach(item => {
 			//create a videoId from id
 			item.videoId = item.id.split(":").pop();
@@ -42,7 +42,7 @@ gulp.task("get:videos", function() {
 
         let ymlText = yaml.stringify(videos);
 
-		fs.writeFile('./site/_data/videos.yml', ymlText, function(err) {
+		fs.writeFile('./content/_data/videos.yml', ymlText, function(err) {
 			if(err) {
 				console.log(err);
 			} else {
