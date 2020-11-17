@@ -13,14 +13,14 @@ To address these issues, we developed an MR remote collaboration system named We
 
 ![We used four intel Realsense cameras to re-create a table. The green blobs represent cameras.](/uploads/livescenestiching.jpg "Reconstructed Table")
 
-
-
 Any changes in the local environment can be updated to the remote user in real-time in 3D. We also enhance the remote communication by sharing the local user’s eye gaze cues with the remote user, as well as hand gestures from the remote user back to the local user (Figure below).
 
 ![](/uploads/2019ismarsystem.png)
 
-
-
 We presented Wearable RemoteFusion, a remote collaboration system that supports spatial annotation and view frustum sharing along with natural non-verbal communication cues (eye gaze and hand gesture). We conducted a user study to investigate the benefits of providing natural communication cues during a collaboration task compared to the controller and annotation-based cues. With our system, the results showed that participants had a stronger feeling ofCo-presence above average, and the remote user had less physical workload as well. We discuss implications for collaborative interface design and directions for future research on the paper. In the future, we want to extend the 3D reconstruction scale from the workspace to the room size. We also plan to enable object segmentation in the dense scene, which could result in a more intelligent guidance process.
 
 You can read more about the paper here: <https://doi.org/10.1109/ISMAR-Adjunct.2019.000-3>
+
+<iframe width="938" height="516" src="https://www.youtube.com/embed/Rr457qBQB5A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="938" height="516" src="https://www.youtube.com/embed/Rr457qBQB5A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
