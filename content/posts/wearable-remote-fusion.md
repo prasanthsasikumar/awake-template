@@ -21,6 +21,4 @@ We presented Wearable RemoteFusion, a remote collaboration system that supports 
 
 You can read more about the paper here: <https://doi.org/10.1109/ISMAR-Adjunct.2019.000-3>
 
-<iframe width="938" height="516" src="https://www.youtube.com/embed/Rr457qBQB5A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="938" height="516" src="https://www.youtube.com/embed/Rr457qBQB5A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Here is a working video: <https://www.youtube.com/embed/Rr457qBQB5A>
