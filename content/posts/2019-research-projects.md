@@ -9,4 +9,4 @@ featureImage: /uploads/student-project-bank-summary.jpg
 ---
 ![](/uploads/student-project-bank-summary.jpg)
 
-<video src="/static/video.mp4" controls />
+<iframe width="420" height="315" src="//www.youtube.com/embed/w0K1wwSJZoc" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
