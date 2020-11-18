@@ -10,6 +10,4 @@ featureImage: /uploads/student-project-bank-summary.jpg
 ![](/uploads/student-project-bank-summary.jpg)
 
 
-[![ISMAR19 Video](/uploads/ISMAR_19_poster_submission_1317.gif)](https://youtu.be/Rr457qBQB5A)
-
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+![](/uploads/ISMAR_19_poster_submission_1317.gif)
