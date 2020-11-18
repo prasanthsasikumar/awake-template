@@ -10,4 +10,4 @@ featureImage: /uploads/student-project-bank-summary.jpg
 ![](/uploads/student-project-bank-summary.jpg)
 
 
-[![Joe Biden](/uploads/ISMAR_19_poster_submission_1317)](https://youtu.be/Rr457qBQB5A)
+[![ISMAR19 Video](/uploads/ISMAR_19_poster_submission_1317.gif)](https://youtu.be/Rr457qBQB5A)
