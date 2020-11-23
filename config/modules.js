@@ -14,8 +14,7 @@ export const modules = [
   '@nuxtjs/axios',
   '@nuxtjs/eslint-module',
   '@nuxtjs/style-resources',
-  'nuxt-fontawesome',
-  'nuxt-responsive-loader'
+  'nuxt-fontawesome'
 ]
 if (siteConfig.googleAnalytics.on && siteConfig.googleAnalytics.id) {
   modules.push('@nuxtjs/google-analytics')
