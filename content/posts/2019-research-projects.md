@@ -10,4 +10,4 @@ featureImage: /uploads/student-project-bank-summary.jpg
 ![](/uploads/student-project-bank-summary.jpg)
 
 
-![](/uploads/ISMAR_19_poster_submission_1317.gif)
+![](/uploads/ismar19.gif)
