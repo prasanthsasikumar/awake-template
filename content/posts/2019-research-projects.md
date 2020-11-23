@@ -10,6 +10,4 @@ featureImage: /uploads/student-project-bank-summary.jpg
 ![](/uploads/student-project-bank-summary.jpg)
 
 
-![](/uploads/ismar19.gif)
-
 <img src="~assets/uploads/ismar19.gif">
