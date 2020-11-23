@@ -12,4 +12,4 @@ featureImage: /uploads/student-project-bank-summary.jpg
 
 
 
-<img src="~assets/uploads/ismar19.gif">
+<img src="~/assets/uploads/ismar19.gif">
