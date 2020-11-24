@@ -7,7 +7,6 @@ author: Prasanth Sasikumar
 date: 2020-06-30T14:12:44.424Z
 featureImage: /uploads/student-project-bank-summary.jpg
 ---
-![](/uploads/student-project-bank-summary.jpg)
+![](https://file-examples-com.github.io/uploads/2017/10/file_example_GIF_500kB.gif)
 
 
-![](/uploads/ismar19.gif)
