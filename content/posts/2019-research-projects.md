@@ -7,6 +7,6 @@ author: Prasanth Sasikumar
 date: 2020-06-30T14:12:44.424Z
 featureImage: /uploads/student-project-bank-summary.jpg
 ---
-![](https://s8.gifyu.com/images/bigfish-party_dribble.gif)
+![](https://s8.gifyu.com/images/ismar19_psk.gif)
 
 
