@@ -10,7 +10,4 @@ featureImage: /uploads/student-project-bank-summary.jpg
 ![](https://s8.gifyu.com/images/ismar19_psk.gif)
 
 
-![](https://youtu.be/OuF9weSkS68)
-
-
 
