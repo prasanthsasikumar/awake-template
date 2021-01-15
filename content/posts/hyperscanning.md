@@ -24,4 +24,4 @@ This pilot study has been able to demonstrate that it appears possible to elicit
 
 Read more about the paper here: <https://doi.org/10.1109/ISMAR-Adjunct.2019.00-17>
 
-Alternatively, download the pdf file here : [https://github.com/prasanthsasikumar/awake-template/blob/master/content/papers/hyperscanning.pdf](https://github.com/prasanthsasikumar/awake-template/blob/master/content/papers/hyperscanning.pdf?raw=true)
+Alternatively, download the pdf file [here](https://github.com/prasanthsasikumar/awake-template/blob/master/content/papers/hyperscanning.pdf?raw=true)
