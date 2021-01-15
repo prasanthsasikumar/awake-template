@@ -10,8 +10,8 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Prasanth Sasikumar',
-  tagline: 'AR/VR/MR Researcher',
-  featureImage: '/uploads/home-RX8.jpg',
+  tagline: 'XR Researcher',
+  featureImage: '/uploads/home-rx8.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
@@ -37,7 +37,7 @@ export default {
     }
   ],
   hero: {
-    theme: 'dark' // options: mist, light, dark
+    theme: 'mist' // options: mist, light, dark
   },
 
   // Main Layout/Style
