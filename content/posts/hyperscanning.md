@@ -6,7 +6,7 @@ category:
   - Research
 author: Prasanth Sasikumar
 date: 2019-12-03T14:31:58.737Z
-featureImage: uploads/hsvr3.png
+featureImage: /uploads/hsvr3.png
 ---
 Inter-brain connectivity between pairs of people was explored during a finger tracking task in the real-world and in Virtual Reality (VR). This was facilitated by the use of a dual EEG set-up that allowed us to use hyperscanning to simultaneously record the neural activity of both participants. We found that similar levels of inter-brain synchrony can be elicited in the real-world and VR for the same task. This is the first time that hyperscanning has been used to compare brain activity for the same task performed in real and virtual environments.
 
@@ -22,6 +22,6 @@ This pilot study has been able to demonstrate that it appears possible to elicit
 
 
 
-Read more about the paper here: <https://doi.org/10.1109/ISMAR-Adjunct.2019.00-17> 
+Read more about the paper here: <https://doi.org/10.1109/ISMAR-Adjunct.2019.00-17>
 
 Alternatively, download the pdf file here : [https://github.com/prasanthsasikumar/awake-template/blob/master/content/papers/hyperscanning.pdf](https://github.com/prasanthsasikumar/awake-template/blob/master/content/papers/hyperscanning.pdf?raw=true)
