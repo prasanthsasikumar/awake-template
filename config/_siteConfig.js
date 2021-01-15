@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'Prasanth Sasikumar',
   tagline: 'AR/VR/MR Researcher',
-  featureImage: '/uploads/home-hero.jpg',
+  featureImage: '/uploads/home-RX8.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
