@@ -1,6 +1,6 @@
 ---
 title: Hyperscanning
-subtitle: "nter-Brain Connectivity: Comparisons between Real and Virtual
+subtitle: "Inter-Brain Connectivity: Comparisons between Real and Virtual
   Environments using Hyperscanning"
 category:
   - Research
