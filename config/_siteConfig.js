@@ -37,19 +37,19 @@ export default {
     }
   ],
   hero: {
-    theme: 'light' // options: mist, light, dark
+    theme: 'dark' // options: mist, light, dark
   },
 
   // Main Layout/Style
   layout: {
-    width: 'contained', // Options: contained, full
-    theme: 'one-column' // Options: one-column, sidebar-right, sidebar-left
+    width: 'full', // Options: contained, full
+    theme: 'sidebar-right' // Options: one-column, sidebar-right, sidebar-left
   },
 
   // Card Layout
   cards: {
     imageDimensions: '2x1', // Options: 1x1, 5x4, 4x3, 3x2, 5x3, 16x9, 2x1, 3x1, 4x5, 3x4, 2x3, 3x5, 9x16
-    theme: 'boxes' // Options: boxes, grid, image-grid
+    theme: 'grid' // Options: boxes, grid, image-grid
   },
 
   // Disqus
