@@ -5,7 +5,7 @@ category:
   - Research
 author: Prasanth Sasikumar
 date: 2020-11-30T05:12:57.217Z
-featureImage: uploads/hyperdrum_cover.png
+featureImage: /uploads/hyperdrum_cover.png
 ---
 ![](https://s2.gifyu.com/images/hyperdrum2.md.gif)
 
