@@ -18,3 +18,5 @@ Figure: (left) two participants engaged in HyperDrum, and (right) interactive vi
 Read more about the paper here: <https://doi.org/10.1145/3355355.3361894>
 
 Download the video preview file [here](https://github.com/prasanthsasikumar/awake-template/blob/master/content/papers/hyperdrum.m4v?raw=true)
+
+Access the pdf file [here](https://github.com/prasanthsasikumar/awake-template/blob/master/content/papers/Hyperdrum.pdf?raw=true)
