@@ -1,5 +1,5 @@
 ---
-title: HyperDrum
+title: NeuralDrum
 subtitle: Interactive Synchronous Drumming in Virtual Reality using Everyday Objects
 category:
   - Research
