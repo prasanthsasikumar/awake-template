@@ -28,5 +28,4 @@ In this paper, we presented a MR remote collaboration system that features both 
 
 Read more about the paper here: <https://link.springer.com/article/10.1007/s12193-020-00331-1>
 
-Access the pdf file [here](https://github.com/prasanthsasikumar/awake-template/blob/master/content/papers/spatialAudio.pdf?raw=true)
-Video preview file [here](https://youtu.be/SNmGXdwknns)
+Access the pdf file [here](https://github.com/prasanthsasikumar/awake-template/blob/master/content/papers/spatialAudio.pdf?raw=true) and video preview [here](https://youtu.be/SNmGXdwknns).
