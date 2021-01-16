@@ -11,10 +11,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Hello!
+                Kia Ora!
               </p>
               <p class="subtitle">
-                What can I do for you?
+                How can I help you?
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
@@ -28,15 +28,11 @@
               <div class="content">
                 <p>
                   <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
+                    Have questions about any of my projects? Interested in taking these concepts further? Let's Chat.
                   </strong>
                 </p>
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  Fill the form or flick me an email at <code>prasanth.sasikumar.psk@gmail.com</code>. See ya :)
                 </p>
               </div>
             </article>
