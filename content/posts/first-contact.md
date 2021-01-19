@@ -1,5 +1,5 @@
 ---
-title: First Contact
+title: "First Contact : XR for Good"
 subtitle: "Using XR to Overcome Intercultural Discomfort (racism) "
 category:
   - Research
