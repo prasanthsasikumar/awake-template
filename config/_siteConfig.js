@@ -34,6 +34,11 @@ export default {
       name: 'Github Repo',
       link: 'https://github.com/prasanthsasikumar',
       target: '_blank'
+    },
+    {
+      name: 'Resume/CV',
+      link: 'https://prasanthsasikumar.com',
+      target: '_blank'
     }
   ],
   hero: {
