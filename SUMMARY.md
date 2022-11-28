@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README :)](README.md)
+* [README](README.md)
 * [ASSETS](assets/README.md)
 * [COMPONENTS](components/README.md)
 * [LAYOUTS](layouts/README.md)
